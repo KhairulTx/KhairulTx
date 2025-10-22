@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">IT student at UNISEL, passionate Flutter & Full Stack Developer, and founder of QALBI — An AI-powered Mental Health app that blends CBT, mood tracking, and self-healing activities.<br><br>I’m driven by the connection between technology, psychology, and design, creating digital experiences that heal, inspire, and empower.</p>
+<p align="left">Information Technology student at UNISEL, passionate Flutter & Full Stack Developer, and founder of QALBI — An AI-powered Mental Health app that blends CBT, mood tracking, and self-healing activities.<br><br>I’m driven by the connection between technology, psychology, and design, creating digital experiences that heal, inspire, and empower.</p>
 
 ###
 
