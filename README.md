@@ -30,7 +30,7 @@ A bilingual (Malay/English) mental wellness app for Malaysian youth. CBT-style c
 | **Data** | PostgreSQL, Supabase, Firestore |
 | **Tools** | Git, Figma, Google Cloud, Vercel |
 
-Previously a full-stack developer at TNEX Malaysia (.NET Core, React, Oracle/MSSQL) working on a GRC platform. Diploma in Computer Science, UNISEL — Dean's Award recipient.
+Previously a full-stack developer at TNEX Malaysia (.NET Core, React, Oracle/MSSQL) working on a GRC platform. Diploma in Information Technology, UNISEL — Dean's Award recipient.
 
 ---
 
